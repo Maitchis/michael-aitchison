@@ -1,2 +1,3 @@
 # michael-aitchison
- Repository for career portfolio website.
+Repository for my career portfolio website.
+Design template based on Strata from https://html5up.net/
